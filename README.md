@@ -9,10 +9,9 @@ To do: sequentially run this script.
 
 ### Prerequisites
 ```
-Python 3
-Selenium
-smtplib
-email
+python==3.7
+selenium==3.141.0
+urllib3==1.24.1
 ```
 ### Installing
 
